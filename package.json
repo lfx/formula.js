@@ -1,6 +1,6 @@
 {
   "author": "Ismael Ghalimi <ismael@stoic.com>",
-  "name": "formulajs",
+  "name": "@lfx/formulajs",
   "description": "JavaScript implementation of most Microsoft Excel formula functions",
   "version": "1.0.9",
   "repository": {
